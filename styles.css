@@ -1,0 +1,158 @@
+nav{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    height: 25px;
+    overflow: hidden;
+    background-color: #7d162a;
+    display: flex;
+    align-items: center;
+    overflow: visible;
+    font-family: Pixelify Sans;
+}
+button{
+    color: white;
+    background-color: #7d162a;
+    height: 20px;
+    font-family: Pixelify Sans;
+    cursor: pointer;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(icon.png);
+    background-size: 10%;
+}
+html{
+    font-family: Pixelify Sans;
+}
+#main{
+    background-color: white;
+    border-radius: 50px;
+    border: #5c1221 solid 5px;
+    min-height: 900px;
+    width: 750px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 20px;
+    text-align: center;
+    margin: auto; 
+    text-align: center;
+  }
+.pixelify-sans-font{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+p{
+    color: #5c1221;
+}
+details{
+    color: #5c1221;
+    width: 740px;
+    padding: 5px;
+}
+details > summary {
+    padding: 4px;
+    width: 740px;
+    background-color: #eeeeee;
+    border: solid #5c1221 1px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+details > p {
+    background-color: #eeeeee;
+    padding: 4px;
+    margin: 0;
+    border: solid #5c1221 1px;
+    border-radius: 10px;
+  }
+
+.dropdown_div {
+    position: relative;
+    display: inline-block;
+    font-family: Pixelify Sans;
+}
+
+.dropdown_content {
+    display: none;
+    position: absolute;
+    background-color: #5c1221; 
+    width: 100%; 
+}
+
+.dropdown_content a {
+    font-family: "Arial";
+    color: #ffffff;
+    padding: 12px 18px;
+    text-decoration: none;
+    display: block;
+    font-family: Pixelify Sans;
+}
+
+.dropdown_content a:hover {
+    background-color: #7d162a
+}
+
+.dropdown_div:hover .dropdown_content {
+    display: block;
+}
+#discord-icon{
+    width: 13.5px;
+}
+#email-icon{
+    width: 13.5px;
+}
+#game-image{
+    border: #5c1221 solid 4px;
+    border-radius: 50px;
+}
+#link-icons{
+    width: 50px;
+}
+#link-icons:hover{
+    width: 55px;
+    transition: 0.2s;
+}
+#home-image{
+    border: #5c1221 solid 4px;
+    border-radius: 50px;
+    margin: 10px;
+}
+#home-image:hover{
+    border: #5c1221 solid 4px;
+    border-radius: 50px;
+    width: 520px; 
+    transition: 0.2s
+
+}
+footer{
+    height: 25px;
+    background-color: #7d162a;
+}
+h1{
+    color: #5c1221;
+    font-family: pixelify sans;
+}
+h2{
+    color: #5c1221;
+    font-family: Pixelify Sans;
+}
+h3{
+    color: #5c1221;
+    font-family: Pixelify Sans;
+}
+h4{
+    color:white;
+    padding: 5px;
+}
+h5{
+    color: #5c1221;
+    font-family: Pixelify Sans;
+}
+h6{
+    color: #5c1221;
+    font-family: Pixelify Sans;
+}
