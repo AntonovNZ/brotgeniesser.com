@@ -4,7 +4,7 @@ nav{
     top: 0;
     height: 25px;
     overflow: hidden;
-    background-color: #7d162a;
+    background-color: #7d162a; 
     display: flex;
     align-items: center;
     overflow: visible;
@@ -33,8 +33,6 @@ html{
     min-height: 900px;
     width: 750px;
     padding: 5px;
-    margin: 5px;
-    margin-top: 20px;
     text-align: center;
     margin: auto; 
     text-align: center;
@@ -44,32 +42,20 @@ html{
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-  }
-
+}
 p{
     color: #5c1221;
 }
 details{
     color: #5c1221;
-    width: 740px;
-    padding: 5px;
 }
-details > summary {
-    padding: 4px;
-    width: 740px;
-    background-color: #eeeeee;
-    border: solid #5c1221 1px;
-    border-radius: 10px;
-    cursor: pointer;
+summary{
+    color: #5c1221;
 }
-details > p {
-    background-color: #eeeeee;
-    padding: 4px;
-    margin: 0;
-    border: solid #5c1221 1px;
-    border-radius: 10px;
-  }
-
+details p{
+border: #5c1221 solid 2px;
+border-radius: 10px;
+}
 .dropdown_div {
     position: relative;
     display: inline-block;
@@ -114,19 +100,22 @@ details > p {
 }
 #link-icons:hover{
     width: 55px;
-    transition: 0.2s;
+    transition: 1s;
 }
 #home-image{
     border: #5c1221 solid 4px;
     border-radius: 50px;
     margin: 10px;
+    width: 500px;
+    
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
     border-radius: 50px;
-    width: 520px; 
-    transition: 0.2s
-
+    width: 540px; 
+    opacity: 0.8;
+    transition: 1s
+    
 }
 footer{
     height: 25px;
@@ -156,3 +145,4 @@ h6{
     color: #5c1221;
     font-family: Pixelify Sans;
 }
+
