@@ -108,13 +108,13 @@ border-radius: 10px;
     border: #5c1221 solid 4px;
     border-radius: 50px;
     margin: 10px;
-    width: 55%;
+    width: 60%;
     
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
     border-radius: 50px;
-    width: 50%; 
+    width: 65%; 
     opacity: 0.8;
     transition: 1s
     
