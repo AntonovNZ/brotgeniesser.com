@@ -32,7 +32,7 @@ html{
     border-radius: 50px;
     border: #5c1221 solid 5px;
     min-height: 900px;
-    width: 50%;
+    width: 65%;
     padding: 5px;
     text-align: center;
     margin: auto; 
@@ -95,6 +95,7 @@ border-radius: 10px;
 #game-image{
     border: #5c1221 solid 4px;
     border-radius: 50px;
+    width: 35%;
 }
 #link-icons{
     width: 50px;
@@ -107,13 +108,13 @@ border-radius: 10px;
     border: #5c1221 solid 4px;
     border-radius: 50px;
     margin: 10px;
-    width: 500px;
+    width: 40%;
     
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
     border-radius: 50px;
-    width: 540px; 
+    width: 45%; 
     opacity: 0.8;
     transition: 1s
     
