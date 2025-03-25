@@ -49,13 +49,16 @@ p{
 }
 details{
     color: #5c1221;
+    font-size: medium;
 }
 summary{
     color: #5c1221;
+    font-size: medium;
 }
 details p{
 border: #5c1221 solid 2px;
 border-radius: 10px;
+font-size: medium;
 }
 .dropdown_div {
     position: relative;
