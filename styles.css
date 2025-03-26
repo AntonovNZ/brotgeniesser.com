@@ -135,8 +135,9 @@ h2{
     font-family: Pixelify Sans;
 }
 h3{
-    color: #5c1221;
     font-family: Pixelify Sans;
+    color: #7d162a;
+    float: right;
 }
 h4{
     color:white;
