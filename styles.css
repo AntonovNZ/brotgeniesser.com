@@ -112,7 +112,6 @@ font-size: large
     border-radius: 50px;
     margin: 10px;
     width: 60%;
-    
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
@@ -120,7 +119,6 @@ font-size: large
     width: 65%; 
     opacity: 0.8;
     transition: 1s
-    
 }
 footer{
     height: 25px;
