@@ -9,6 +9,7 @@ nav{
     align-items: center;
     overflow: visible;
     font-family: Pixelify Sans;
+    z-index: 1000;
 }
 button{
     color: white;
