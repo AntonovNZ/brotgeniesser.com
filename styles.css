@@ -165,12 +165,9 @@ h6{
         width: 100%;
     }
 }
-@media only screen and (max-width: 493px) {
-    nav button{
-        width: 80%;
-    }
+@media only screen and (max-width: 492px) {
     nav h4{
-        size: 80%;
+       display: none; 
     }
 }
 
