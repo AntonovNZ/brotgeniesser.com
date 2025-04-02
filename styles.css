@@ -125,6 +125,7 @@ font-size: large
 footer{
     height: 25px;
     background-color: #7d162a;
+    bottom: 0;
 }
 h1{
     color: #5c1221;
