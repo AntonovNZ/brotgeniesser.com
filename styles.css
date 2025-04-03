@@ -114,13 +114,14 @@ font-size: large
     margin: 10px;
     width: 60%;
     z-index: 999;
+    height: 250px;
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
     border-radius: 50px;
     width: 65%; 
     opacity: 0.8;
-    transition: 1s
+    transition: 1s;
 }
 footer{
     height: 25px;
@@ -173,7 +174,7 @@ h6{
        display: none; 
     }
     nav{
-        width: 100 %;
+        width: 100%;
     }
 }
 
