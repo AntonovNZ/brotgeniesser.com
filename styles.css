@@ -114,7 +114,7 @@ font-size: large
     margin: 10px;
     width: 60%;
     z-index: 999;
-    height: 250px;
+    max-height: 250px;
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
