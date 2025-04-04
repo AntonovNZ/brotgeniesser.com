@@ -114,7 +114,6 @@ font-size: large
     margin: 10px;
     width: 60%;
     z-index: 999;
-    height: 50%;
 }
 #home-image:hover{
     border: #5c1221 solid 4px;
